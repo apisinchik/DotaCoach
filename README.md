@@ -1,0 +1,1 @@
+This project makes it easier to increase your MMR in Dota 2
